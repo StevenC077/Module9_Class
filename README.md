@@ -47,3 +47,12 @@ python app/rps.py
 #alternatively
 python -m app.my_script.py
 '''
+
+
+## Testing
+
+To run testing:
+
+'''sh
+pytest
+'''
