@@ -1,6 +1,0 @@
-
-
-
-# We will use pytest to test our program
-
-pytest
