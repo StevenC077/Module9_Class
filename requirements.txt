@@ -6,9 +6,10 @@
 pytest
 
 
-# You might need these for the optional bonus:
+# stocks:
 pandas
 plotly
+python-dotenv
 
 # web app:
 flask
